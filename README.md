@@ -1,3 +1,7 @@
+Deployed Site: https://pokemon-exercise.herokuapp.com/
+
+
+
 ## Pokemon API
 
 Your task is to build and deploy an API to create, read, update, and delete Pokemon. The API should:
